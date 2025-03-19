@@ -1,0 +1,9 @@
+==================================================
+input 1: I see a charge on my credit card statement but I paid on time, why?
+predicted category: beneficiary_not_allowed
+==================================================
+input 2: Do you have a branch in Timbuktu?
+predicted category: apple_pay_or_google_pay
+==================================================
+input 3: I lost my card and my replacement card has not arrived.
+predicted category: cash_withdrawal_charge
